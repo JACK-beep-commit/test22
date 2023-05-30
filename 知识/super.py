@@ -96,6 +96,4 @@
 # m = Male('xiaoming',12)
 # super(Male,m).__init__('xiaoming',12)
 # print(m.__dict__)
-"新增一样"
-
 
