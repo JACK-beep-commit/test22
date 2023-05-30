@@ -10,27 +10,6 @@ network_send = []
 time_list = []
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 def func1():
     # CPU的核数
     cpu_count = psutil.cpu_count(logical=False)
