@@ -12,6 +12,9 @@ class AA:
 def execBbj(func):
     return func()
 
+
+
+
 def BB():
     print("bb exec")
 
